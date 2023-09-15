@@ -14,6 +14,7 @@ export CLUSTER_ID=<your_cluster_id>
 export CLUSTER_API_KEY=<your_cluster_api_key>
 export CLUSTER_BOOTSTRAP_SERVER=<your_cluster_bootstrap_server>
 
+cd ./collector
 docker compose up
 ```
 
