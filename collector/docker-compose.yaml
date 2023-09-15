@@ -16,8 +16,5 @@ services:
       - CONFLUENT_API_ID
       - CONFLUENT_API_SECRET
       - CLUSTER_ID
-    ports:
-      - "4317:4317"
-      - "4318:4318"
 
 
