@@ -19,5 +19,5 @@ docker compose up
 
 # Notes
 
- For assistance on finding the above variables, check the links in (our documentation)[https://docs.newrelic.com/docs/more-integrations/open-source-telemetry-integrations/opentelemetry/collector/collector-configuration-examples/opentelemetry-collector-kafka-confluentcloud/]
+ For assistance on finding the above variables, check the links in [our documentation](https://docs.newrelic.com/docs/more-integrations/open-source-telemetry-integrations/opentelemetry/collector/collector-configuration-examples/opentelemetry-collector-kafka-confluentcloud/)
 
